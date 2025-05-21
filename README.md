@@ -35,7 +35,7 @@ You can view the live demo of this project here:
 
 Below is a screenshot of the Kanban Board application:
 
-![Kanban Board Screenshot](./images/kanban-screenshot.png)  
+![Kanban Board Screenshot](./images/kanbanSS.png)  
 *(Make sure to add your screenshot image inside the `images` folder and name it `kanban-screenshot.png` or update the path accordingly)*
 
 ---
