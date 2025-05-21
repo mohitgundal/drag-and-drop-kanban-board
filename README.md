@@ -26,8 +26,7 @@ This project is a simple Kanban Board web application that helps you organize yo
 ## Live Demo
 
 You can view the live demo of this project here:  
-[Live Demo Link](https://your-live-demo-url.com)  
-*(Replace the URL above with your actual demo link)*
+[Live Demo Link]([https://your-live-demo-url.com](https://mohitgundal.github.io/drag-and-drop-kanban-board/))  
 
 ---
 
@@ -36,6 +35,7 @@ You can view the live demo of this project here:
 Below is a screenshot of the Kanban Board application:
 
 ![Kanban Board Screenshot](./images/kanbanSS.png)  
+
 ---
 
 ## How to Use
