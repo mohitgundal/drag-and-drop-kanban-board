@@ -43,19 +43,19 @@ This project is a simple Kanban Board web application that helps you organize yo
 
 ## 💻 How to Run Locally
 
-1. Clone this repository:
+### 1. Clone this repository:
 
    ```bash
    git clone https://github.com/mohitgundal/drag-and-drop-kanban-board.git
    ```
 
-2. Navigate into the project folder:
+### 2. Navigate into the project folder:
 
    ```bash
    cd drag-and-drop-kanban-board
    ```
 
-3. Open in browser:
+### 3. Open in browser:
     Simply open `index.html` in your preferred browser (Chrome, Firefox, Edge, etc.)  
    ⚠️ No setup or server required — it's 100% front-end.
 
