@@ -47,12 +47,13 @@ This project is a simple Kanban Board web application that helps you organize yo
 
    ```bash
    git clone https://github.com/mohitgundal/drag-and-drop-kanban-board.git
+   ```
 
 2. Navigate into the project folder:
 
-```bash
-cd drag-and-drop-kanban-board
-```
+   ```bash
+   cd drag-and-drop-kanban-board
+   ```
 
 3. Open in browser:
    Simply open index.html in your preferred browser (Chrome, Firefox, Edge, etc.)
