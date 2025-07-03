@@ -59,7 +59,7 @@ This project is a simple Kanban Board web application that helps you organize yo
    Simply open index.html in your preferred browser (Chrome, Firefox, Edge, etc.)
    ⚠️ No setup or server required — it's 100% front-end.
 
----
+
 
 ## 📁 Project Structure
    ```plaintext
@@ -72,25 +72,25 @@ This project is a simple Kanban Board web application that helps you organize yo
 └── README.md          # This file
 ```
 
----
+
 
 ## 🤝 Contributing
 Contributions are welcome!
 Feel free to fork the repo, improve the board, and submit a pull request.
 Have suggestions or bugs? Open an issue 💡
 
----
+
 
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
+
 
 ## 🙋‍♂️ Author
 Made with 💙 by **Mohit Gundal**  
 [![LinkedIn](https://img.shields.io/badge/Connect-Mohit%20on%20LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitbuilds/)
 
----
+
 
 ## 🙏 Thank you for visiting!
 If you liked the project, please consider leaving a ⭐ on the repo 😊
