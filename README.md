@@ -56,7 +56,7 @@ This project is a simple Kanban Board web application that helps you organize yo
    ```
 
 3. Open in browser:
-   Open in browser: Simply open `index.html` in your preferred browser (Chrome, Firefox, Edge, etc.)  
+    Simply open `index.html` in your preferred browser (Chrome, Firefox, Edge, etc.)  
    ⚠️ No setup or server required — it's 100% front-end.
 
 
