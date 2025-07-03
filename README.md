@@ -80,7 +80,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 🙋‍♂️ Author
 Made with 💙 by **Mohit Gundal**  
-[![LinkedIn](https://img.shields.io/badge/Connect-Mohit%20on%20LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitgundal)
+[![LinkedIn](https://img.shields.io/badge/Connect-Mohit%20on%20LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitbuilds/)
 
 ## 🙏 Thank you for visiting!
 If you liked the project, please consider leaving a ⭐ on the repo 😊
