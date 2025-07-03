@@ -60,7 +60,7 @@ This project is a simple Kanban Board web application that helps you organize yo
    ⚠️ No setup or server required — it's 100% front-end.
 
 ## 📁 Project Structure
-```plaintext
+   ```plaintext
 /
 ├── index.html         # Main HTML structure
 ├── style.css          # Styling and layout
